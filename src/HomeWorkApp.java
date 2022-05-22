@@ -47,5 +47,6 @@ public class HomeWorkApp {
         System.out.println("Orange");
         System.out.println("Banana");
         System.out.println("Apple");
+
     }
 }
